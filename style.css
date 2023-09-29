@@ -1,0 +1,16 @@
+#imgg{
+    margin-left: 940px;
+    display: inline;
+    margin-top: -53px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(230, 177, 177) , rgb(235, 235, 112));}
+
+    @media(max-width:425px){
+        .namee{ 
+        font-size: 16px !important;
+    }
+    h2 #email{
+        font-size: 17px !important;
+    }
+    }
